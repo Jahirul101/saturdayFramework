@@ -1,0 +1,3 @@
+com\talentach\pages\GoogleHome.class
+com\telentach\steps\googleSearch.class
+com\telentach\testrunner\TestRunner.class
